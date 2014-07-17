@@ -125,10 +125,10 @@ int main()
             in[i] = ',';
 
         /*switch (in[i])
-            case 'q':
-                in[i] = 'й';
-                break;
-            case 'w':
+            case 'q':                   не работающий єлемент кода
+                in[i] = 'й';            
+                break;                  по идее,вместо єтого леса ifов должен
+            case 'w':                   біл біть аккуратненький switch
                 in[i] = 'ц';
                 break;
             case 'e':
