@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-    setlocale(LC_ALL, "");
+    setlocale(LC_ALL, "");      //эта строчка даёт возможность CodeBlocks работать с языком системы(русским)
 
     char in[100];
 
