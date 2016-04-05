@@ -24,7 +24,7 @@ char GetRusSymbol(char in)
 		else
 		{
 			pRus++;
-            pEng++;
+            		pEng++;
 		}
 	}
 	return out;
